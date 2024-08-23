@@ -2,6 +2,8 @@
 
 This repository contains implementations of gradient descent algorithms for linear regression, including both stochastic and batch methods. Gradient descent is an optimization algorithm used to minimize the cost function in linear regression, effectively addressing the computational inefficiencies of Ordinary Least Squares (OLS) in high-dimensional data scenarios.
 
+PS - The pdf file contains handwritten notes and more explaination about gradient descent.
+
 ## Key Concepts Covered
 
 - **Gradient Descent**: An iterative optimization technique designed to find the minimum of a cost function by adjusting parameters in the direction of the steepest descent.
